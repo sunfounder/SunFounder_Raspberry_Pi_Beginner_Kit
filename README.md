@@ -1,17 +1,17 @@
-## SunFounder Raspberry Pi Beginer Kit
+## SunFounder Raspberry Pi Beginner Kit
 Raspberry Pi Begin Kit
 
 Quick Links:
 
- * [About Raspberry Pi Begin Kit](#about_this_kit)
+ * [About Raspberry Pi Beginner Kit](#about_this_kit)
  * [Update](#update)
  * [About SunFounder](#about_sunfounder)
  * [License](#license)
  * [Contact us](#contact_us)
 
 <a id="about_this_kit"></a>
-### About Raspberry Pi Begin Kit:
-SunFounder Raspberry Pi Beginer, is a kit for beginers. with this kit, you will learn how to begin to use Raspberry pi. Like how to burn a image file, how to log into raspberry pi remotely, with VNC, and you will learn some basic programing with python of the GPIO. This repository contains the example code mentions in the manul.
+### About Raspberry Pi Beginner Kit:
+SunFounder Raspberry Pi Beginner, is a kit for beginners. With this kit, you will learn how to begin to use Raspberry pi. Like how to burn an image file, how to log into raspberry pi remotely, with VNC, and you will learn some basic programing with python of the GPIO. This repository contains the example code mentions in the manual.
 
 ####Download
 - To download this repository on Raspberry Pi, simplely click the green button: **Clone or Download** and select download. Then unzip the zip file.
@@ -19,13 +19,13 @@ SunFounder Raspberry Pi Beginer, is a kit for beginers. with this kit, you will 
 - Or, clone the repository to your Pi, with command:
 
         cd ~/
-        git clone https://github.com/sunfounder/SunFounder_Raspberry_Pi_Beginer_Kit.git
+        git clone https://github.com/sunfounder/SunFounder_Raspberry_Pi_Beginner_Kit.git
 
 ####View and Run
 - To view the example, open the folder `example`, and right click on the file you wanted to view, and select **Python 2 (IDLE)**. And to run the example, click the **Run** on the top bar, and select **Run Module**
 - Or, in terminal, change directory to `example`, and run with `python`:
 
-        cd ~/SunFounder_Raspberry_Pi_Beginer_Kit/example
+        cd ~/SunFounder_Raspberry_Pi_Beginner_Kit/example
         python led.py
 
 <a id="update"></a>
@@ -47,9 +47,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-SunFounder Raspberry Pi Beginer Kit comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
+SunFounder Raspberry Pi Beginner Kit comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
 
-SunFounder, Inc., hereby disclaims all copyright interest in the program 'SunFounder Raspberry Pi Beginer Kit' (which makes passes at compilers).
+SunFounder, Inc., hereby disclaims all copyright interest in the program 'SunFounder Raspberry Pi Beginner Kit' (which makes passes at compilers).
 
 Mike Huang, 21 August 2015
 
